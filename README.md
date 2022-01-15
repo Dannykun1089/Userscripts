@@ -12,4 +12,4 @@ A collection of custom userscripts i make.
 ## Scripts
 <hr>
 
-* [Gelbooru Extensions](/blob/master/extensions/Gelbooru )
+* [Gelbooru Extensions](/raw/master/Extensions/Gelbooru%20Extensions.user.js)
